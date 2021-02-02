@@ -17,13 +17,13 @@ ProjectName and Description
 <br />
 
 <p align="center">
-  <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://6633.cf/cf.png">
+    <img src="https://6633.cf/cf.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">陈风实验室</h3>
   <p align="center">
-    一个"完美的"README模板去快速开始你的项目！
+    这里有linux/安卓/虚拟化资源下载！
     <br />
     <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
     <br />
