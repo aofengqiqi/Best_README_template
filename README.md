@@ -25,14 +25,14 @@ ProjectName and Description
   <p align="center">
     这里有linux/安卓/虚拟化资源下载！
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://jq.qq.com/?_wv=1027&k=WDjpAMt4"><strong>QQ群号码917391184 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://www.youtube.com/channel/UCh5tT6uK4OKbsFAheQwPAnw">YouTube</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告Bug</a>
+    <a href="https://space.bilibili.com/441710267">哔哩哔哩</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出新特性</a>
+    <a href="赞未开放">今日头条</a>
   </p>
 
 </p>
