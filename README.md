@@ -2,7 +2,7 @@
 
 # 陈风实验室粉丝专用网盘
 
-ProjectName and Description
+分享 科技 数码 debug
 
 <!-- PROJECT SHIELDS -->
 
@@ -26,11 +26,7 @@ ProjectName and Description
     ·
     <a href="https://space.bilibili.com/441710267">哔哩哔哩</a>
     ·
-    <a href="赞未开放">今日头条</a>
+    <a href="暂未开放">今日头条</a>
   </p>
 
 </p>
-
-
-陈风全体粉丝福利
- 
