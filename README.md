@@ -24,7 +24,7 @@
     <br />
     <a href="https://www.youtube.com/channel/UCh5tT6uK4OKbsFAheQwPAnw">YouTube</a>
     ·
-    <a href="https://space.bilibili.com/441710267">哔哩哔哩</a>
+    <a href="https://space.bilibili.com/441710267" target="_blank">哔哩哔哩</a>
     ·
     <a href="暂未开放">今日头条</a>
   </p>
