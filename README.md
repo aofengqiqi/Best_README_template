@@ -26,7 +26,7 @@
     ·
     <a href="https://space.bilibili.com/441710267" target="_blank">哔哩哔哩</a>
     ·
-    <a href="">今日头条</a>
+    <a 今日头条</a>
   </p>
 
 </p>
