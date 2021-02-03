@@ -29,9 +29,7 @@
     <a href="https://pan.6633.cf" target="_blank">今日头条</a>
   </p>
 
-<p style="text-align:right;">
-	(注：移动用户访问本站网页速度受限但下载速度不受影响，后续会优化移动用户体验）
-</p>
-<p>
-	<br />
-</p>
+
+ <p align="center">
+    注：移动用户访问本站网页速度受限但下载速度不受影响，后续会优化移动用户体验
+    <br />
