@@ -1,5 +1,4 @@
 
-
 # 陈风实验室粉丝专用网盘
 
 分享 科技 数码 debug
@@ -11,8 +10,8 @@
 <br />
 
 <p align="center">
-  <a href="https://6633.cf/cf.png">
-    <img src="https://6633.cf/cf.png" alt="Logo" width="80" height="80">
+  <a href="https://cdn.jsdelivr.net/gh/chenfengnet/tuku@master/logo.png">
+    <img src="https://cdn.jsdelivr.net/gh/chenfengnet/tuku@master/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">陈风实验室</h3>
@@ -26,10 +25,10 @@
     ·
     <a href="https://space.bilibili.com/441710267" target="_blank">哔哩哔哩</a>
     ·
-    <a href="https://pan.6633.cf" target="_blank">今日头条</a>
+    <a href="https://chenfeng.de" target="_blank">个人博客</a>
   </p>
 
 
  <p align="center">
-    注：移动用户访问本站网页速度受限但下载速度不受影响，后续会优化移动用户体验
+    注：本网盘过载国内CDN网盘，下载不限速，访问速度可能会稍慢
     <br />
