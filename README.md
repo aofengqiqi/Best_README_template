@@ -26,7 +26,6 @@
     <a href="https://space.bilibili.com/441710267" target="_blank">哔哩哔哩</a>
     ·
     <a href="https://chenfeng.de" target="_blank">个人博客</a>
-  </p>
     ·
     <a href="https://chenfeng.de" target="_blank">个人博客</a>
   </p>
