@@ -14,9 +14,9 @@
     <img src="https://cdn.jsdelivr.net/gh/chenfengnet/tuku@master/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">陈风实验室</h3>
+  <h3 align="center">联通电脑安防旗舰店</h3>
   <p align="center">
-    这里有linux/安卓/虚拟化/windows资源下载！
+    开卡入网  电脑维修  电脑回收  行业软件
     <br />
     <a href="https://jq.qq.com/?_wv=1027&k=WDjpAMt4"><strong>QQ群号码917391184</strong></a>
     <br />
