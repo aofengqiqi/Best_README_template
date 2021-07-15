@@ -16,7 +16,7 @@
 
   <h3 align="center">联通电脑安防旗舰店</h3>
   <p align="center">
-    开卡入网|电脑维修|电脑回收|行业软件
+    【开卡入网】【电脑维修】【电脑回收】【行业软件】
     <br />
     <a href="https://jq.qq.com/?_wv=1027&k=WDjpAMt4"><strong>QQ群号码917391184</strong></a>
     <br />
